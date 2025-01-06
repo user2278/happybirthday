@@ -1,0 +1,39 @@
+body{
+    background-image:url("pic.jpg") ;
+    font-family: 'Playwrite AU SA', sans-serif;
+    display: flex;
+    align-items: baseline;
+}
+h1{
+    margin-bottom: 2000px;
+}
+#pic1{
+    width: 200px;
+    height: 400px;
+    margin-right:20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#pic2{
+    width: 200px;
+    height: 400px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-right: -300px;
+}
+.parr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 1000px;
+    padding: 0;
+    margin: 0;
+}
+.par1{
+    font-size: 30px;
+    width: 500px;
+    height: 550px;
+    margin: 200px;
+    background-color: rgba(128, 128, 128, 0.274);
+}
